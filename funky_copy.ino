@@ -1,27 +1,4 @@
-//========================================================================
-// TopFinishKits.com Template Program for Robot Tour
-//
-//  Board: Arduino Uno
-//  Vehicle: D4
-//  Version: 2.1
-//
-// The information contained in this program is for general education 
-// purposes only. The information is provided by TopFinishKits.com and 
-// while we endeavor to keep the information up to date and correct, 
-// we make no representations or warranties of any kind, express or 
-// implied, about the completeness, accuracy, reliability, suitability 
-// or availability with respect to the this program, or the website, 
-// information, products, services, or related graphics contained on
-// the website for any purpose. Any reliance you place on such 
-// information is therefore strictly at your own risk.
-//
-// Change Log:
-//    2023-11-24  - Modified MotionLogic to only use minimum speed at the end
-//                  of a move.
-//                - Changed MotionLogic debug to work with the Serial Plotter.
-//                - Minimum Speed is a constant set with the other constants.
-//
-//========================================================================
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>    // this library is needed for the 20x4 display
