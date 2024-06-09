@@ -22,6 +22,7 @@ Initial Plan in October
 ![image](https://github.com/SidharthBhatt/FunkyRobot/assets/81537231/4eb1cf6a-e903-4107-a37f-f5921f8a2260)
 
 First Snapshot in December
+yes... don't ask me how but this bundle of wires actually worked (after some extensive troubleshooting)
 ![image](https://github.com/SidharthBhatt/FunkyRobot/assets/81537231/320ea31f-72af-42c0-8de8-0be1d102e99b)
 
 Second Snapshot in January 
