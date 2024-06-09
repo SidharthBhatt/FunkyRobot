@@ -7,7 +7,7 @@ The objective is to avoid obstacles, go through checkpoints, and reach the endpo
 I designed the chassis with Onshape and 3d printed it at home. After, several iterations I had minimized the robot's footprint and maximized space for electronics. 
 
 **Onshape:**
-https://cad.onshape.com/documents/a9824bbfdd060f6b1b0a735a/w/9a609be5ec08fa04e5a09f19/e/9d9f4e09387bd903938f9d47?renderMode=0&uiState=6664e0d098a26519e4ec676d
+https://cad.onshape.com/documents/a9824bbfdd060f6b1b0a735a/w/9a609be5ec08fa04e5a09f19/e/9d9f4e09387bd903938f9d47
 
 
 ![image](https://github.com/SidharthBhatt/FunkyRobot/assets/81537231/ccc2e4ef-2a1e-49e9-b555-b97fc364e199)
