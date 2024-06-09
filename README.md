@@ -22,7 +22,7 @@ Soldering was necessary to connect the header pins to many of the PCBS and conne
 ![image](https://github.com/SidharthBhatt/FunkyRobot/assets/81537231/316a73b5-c953-48c9-ad0c-ab714a2a6162)
 
 
-The code has a lot of comments and has been simplified several times. There are different commands that can be added to the que that are executed when the button is pressed. A PI loop accounts for the difference in the two encoders counts and corrects for it at the end of every action.
+The code has a lot of comments and has been simplified several times. There are different commands that can be added to the que that are executed when the button is pressed. A PI loop accounts for the difference in the two encoders counts and corrects for it at the end of every command.
 # Initial Plan in October
 ![image](https://github.com/SidharthBhatt/FunkyRobot/assets/81537231/c168ddbd-62e8-43e0-8744-a0ad85098cf9)
 ![image](https://github.com/SidharthBhatt/FunkyRobot/assets/81537231/4eb1cf6a-e903-4107-a37f-f5921f8a2260)
